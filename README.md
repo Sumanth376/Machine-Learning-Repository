@@ -4,7 +4,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 🔐 Credit Card Fraud Detection
+## 🔐 [Credit Card Fraud Detection](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Credit%20card%20Fraud%20Detection)
 
 **Objective:** Detect fraudulent transactions using machine learning models.
 
@@ -15,7 +15,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 🧑‍💼 Employee Treatment Prediction
+## 🧑‍💼 [Employee Treatment Prediction](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Employee%20Treatment%20Prediction)
 
 **Objective:** Predict whether employees feel they are treated fairly based on workplace data.
 
@@ -26,7 +26,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## ✈️ Flight Price Prediction
+## ✈️ [Flight Price Prediction](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Flight%20Price%20Prediction)
 
 **Objective:** Predict airline ticket prices using historical data.
 
@@ -37,7 +37,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 📈 Forecasting Restaurant Sales
+## 📈 [Forecasting Restaurant Sales](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Forecasting%20Restaurant%20sales)
 
 **Objective:** Forecast restaurant daily sales using time series models.
 
@@ -48,7 +48,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## ❤️ Heart Disease Prediction
+## ❤️ [Heart Disease Prediction](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Heart%20Disease%20Prediction)
 
 **Objective:** Predict the risk of heart disease from medical attributes.
 
@@ -59,7 +59,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 💰 Insurance Price Prediction
+## 💰 [Insurance Price Prediction](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Insurance%20Price%20Prediction)
 
 **Objective:** Estimate insurance premium costs based on health and lifestyle.
 
@@ -70,7 +70,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 📋 Predicting the Status of the Interview
+## 📋 [Predicting the Status of the Interview](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Predicting%20the%20Status%20of%20the%20Interview)
 
 **Objective:** Predict candidate interview outcomes using hiring data.
 
@@ -81,7 +81,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 🚕 Taxi Fare Price Prediction
+## 🚕 [Taxi Fare Price Prediction](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Taxi%20Fre%20Price%20prediction)
 
 **Objective:** Predict taxi fare amounts based on trip details.
 
@@ -92,7 +92,7 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 
 ---
 
-## 🚢 Titanic Data Predictions
+## 🚢 [Titanic Data Predictions](https://github.com/Sumanth376/Machine-Learning-Repository/tree/main/Titanic%20Data%20Predictions)
 
 **Objective:** Predict passenger survival on the Titanic.
 
@@ -109,5 +109,3 @@ Welcome to my collection of end-to-end Machine Learning and Data Science project
 - Time Series (ARIMA, Prophet)
 - Streamlit for App Deployment
 - Jupyter Notebook for development
-- Git & GitHub for version control
-- 
